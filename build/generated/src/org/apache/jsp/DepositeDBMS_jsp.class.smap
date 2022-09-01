@@ -1,0 +1,20 @@
+SMAP
+DepositeDBMS_jsp.java
+JSP
+*S JSP
+*F
++ 0 DepositeDBMS.jsp
+DepositeDBMS.jsp
++ 1 DBCON.jsp
+DBCON.jsp
+*L
+1,2:51
+1#1,6:53
+6:11
+6,2:59
+8,18:62
+25,5:80
+3#0,7:84
+10,157:92
+166,4:249
+*E
